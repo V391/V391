@@ -1,4 +1,4 @@
-word# 💫 About Me:
+💫 About Me:
 ## Hi, I am Vyom<br><br>Analytics engineer and Product-focused Data Scientist working at the intersection of data engineering, experimentation, and applied AI.<br><br>I build end-to-end product and growth analytics systems — from event tracking and data models to experimentation, ML, and AI-powered workflows. <br>My work focuses on helping fast-growing fintech and AI-driven products move faster, reduce costs, and make better revenue decisions under ambiguity.<br><br>I enjoy building pragmatic data systems from scratch, scaling them to real-world usage, and then optimizing them for speed, cost, and decision impact.
 
 
