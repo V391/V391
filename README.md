@@ -1,4 +1,4 @@
-# 💫 About Me:
+word# 💫 About Me:
 ## Hi, I am Vyom<br><br>Analytics engineer and Product-focused Data Scientist working at the intersection of data engineering, experimentation, and applied AI.<br><br>I build end-to-end product and growth analytics systems — from event tracking and data models to experimentation, ML, and AI-powered workflows. <br>My work focuses on helping fast-growing fintech and AI-driven products move faster, reduce costs, and make better revenue decisions under ambiguity.<br><br>I enjoy building pragmatic data systems from scratch, scaling them to real-world usage, and then optimizing them for speed, cost, and decision impact.
 
 
@@ -11,10 +11,10 @@
 ## 🔑 Key Repositories
 
 - **[RAG Analytics Agent – NL → SQL](https://github.com/Vyom-Data-Portfolio/RAG-analytics-agent)**  
-  AI-powered analytics agent that converts natural language questions into SQL using RAG, enabling faster self-serve analytics.
+  RAG-powered SQL agent using Claude Sonnet 4 API and LangChain for agent orchestration; integrated Sentence Transformers (Hugging Face) with ChromaDB vector database for semantic retrieval, 90% query accuracy across 10-table schema with 60K+ rows.
 
 - **[TripGenie](https://github.com/Vyom-Data-Portfolio/TripGenie)**  
-  Data-driven travel assistant focused on recommendation logic, user behavior modeling, and decision automation.
+  AI travel assistant with Claude API orchestration featuring intent extraction, multi-day itinerary generation, theme-based planning, LLM-as-judge evaluation, and production-grade cost tracking.
 
 - **[Spend Sense – Financial Statement Analysis](https://github.com/Vyom-Data-Portfolio/sense-your-spends)**  
   Financial analytics system for parsing, analyzing, and extracting insights from spending and statement data.
